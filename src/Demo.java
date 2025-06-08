@@ -9,6 +9,6 @@ public class Demo {
 
         WebDriver driver = new ChromeDriver(); // Instantiating ChromeDriver
         driver.get("https://www.google.com/"); // Navigate to URL
-        driver.quit(); // Quit driver instance
+        driver.quit(); // Quit driver instance 
     }
 }
